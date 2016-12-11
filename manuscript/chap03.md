@@ -6,7 +6,7 @@ Admitting that it might be nice to just relax and take it easy over the next sev
 
 At press time, Ginsburg accepted an invitation from 78-year-old Justice Stephen Breyer to spend their winter vacation going BASE jumping in the insurgent-held Borno region of Nigeria
 
-![i am a sql thinger](./sql.jpg)
+![i am a sql thinger](images/sql.jpg)
 
 ## And so it goes
 
